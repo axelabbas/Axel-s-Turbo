@@ -9,8 +9,8 @@ import os
 import json,time
 
 r1 = requests.session()
-user = 'axelabbas'
-password = 'nn22nn33aa11'
+user = '' 
+password = ''
 
 count = 0
 def getdate():
